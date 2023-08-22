@@ -1,0 +1,98 @@
+
+body{
+    background-image: url(./Imagenes/Fondo.jpg);
+    align-items: center;
+}
+.header-container {
+    text-align: center;
+    font-size: 30px;
+    color: #000000;
+    background-color: rgb(255, 255, 255, 0.3);
+    padding: 20px;  
+}
+.profile-image {
+    max-width: 200px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+h1{
+    margin-bottom: 10px;
+}
+
+nav{
+    background-color: black;
+    text-size-adjust: 12px;
+    padding: 10px;
+    ;
+    
+
+}
+ul{
+    list-style: disc;
+    margin: 12px;
+    padding: 0;
+    
+}
+li{
+    display: inline;
+    margin-right: 20px;
+    font-size: 25PX;
+}
+li.edu{
+    
+    display: list-item ;
+    list-style-type: disc;
+    margin-left: 20px;
+    
+}
+li.expe{
+    display: list-item ;
+    list-style-type: disc;
+    margin-left: 20px;
+    
+}
+a.email-link {
+    color: blue;
+    text-decoration: underline;
+}
+a.special-link {
+    color: blue;
+    text-decoration: underline;
+}
+p{
+    display: list-item ;
+    list-style-type: circle;
+    margin-left: 40px;  
+}
+
+a{
+    color: #fffefe;
+    text-decoration: none;
+}
+
+li.habi{
+    display: list-item ;
+    list-style-type: disc;
+    margin-left: 20px;
+}
+fieldset{
+    margin-bottom: 10px;
+    background-color: rgb(255, 255, 255, 0.8);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+li.cont{
+    display: list-item ;
+    list-style-type: disc;
+    margin-left: 20px;
+    color: #000000;
+
+}
+li.dato{
+    display: list-item ;
+    list-style-type: disc;
+    margin-left: 20px;
+}
